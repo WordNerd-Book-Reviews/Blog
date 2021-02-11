@@ -66,7 +66,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "28312e99e05772799a784c70ca816b2b"
+    "revision": "85a6d97f6b592fc455c7d71a9e5d89c3"
   },
   {
     "url": "static/webfonts/s/alegreyasans/v13/5aUt9_-1phKLFgshYDvh6Vwt7V9dv21T.woff2"
@@ -93,7 +93,7 @@ self.__precacheManifest = [
     "url": "static/webfonts/s/amaticsc/v15/TUZ3zwprpvBS1izr_vOMscGKfrUC.woff2"
   },
   {
-    "url": "webpack-runtime-fdfe3fcfe0df19adffff.js"
+    "url": "webpack-runtime-d7b502e3631ed64e2a9e.js"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-b0556ce5127c1a3e2490.js"
