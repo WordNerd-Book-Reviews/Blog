@@ -289,7 +289,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-gatsby-plugin-google-analytics
+gatsby-plugin-google-gtag
 MIT
 The MIT License (MIT)
 
