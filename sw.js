@@ -28,35 +28,35 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "icons/icon-144x144.png",
-    "revision": "7fd089970ef7b8476a9146af82bf454a"
+    "revision": "639c3e75ec46a4d16f02d5505c47b8e4"
   },
   {
     "url": "icons/icon-192x192.png",
-    "revision": "45c47a44f5ed3a4eee29bfb29ece1f31"
+    "revision": "9c15b590dbcd93ee5a4eeec1b29ae3b5"
   },
   {
     "url": "icons/icon-256x256.png",
-    "revision": "a6cde1282dc0eba5b1fa7291e4566259"
+    "revision": "0dae9702ccd62a9930ff5208a3688334"
   },
   {
     "url": "icons/icon-384x384.png",
-    "revision": "effe48a2d74df803b04efe5fdbc2f246"
+    "revision": "332d5c3d8b2280c14341af73ce9ca8c3"
   },
   {
     "url": "icons/icon-48x48.png",
-    "revision": "b1b8670c5f4bfc40f21baf1078650c98"
+    "revision": "a59e774d601b4b391630d8f6cb8f01b1"
   },
   {
     "url": "icons/icon-512x512.png",
-    "revision": "994d2e6b31a645862347caaa939badee"
+    "revision": "bcd5ec57a9a9b5ad790b92b6ff67ae7c"
   },
   {
     "url": "icons/icon-72x72.png",
-    "revision": "bfcc96ea0a083a7c2a6afeb8680d0903"
+    "revision": "49441ebebd8148c9fb6b2b4cb4356e36"
   },
   {
     "url": "icons/icon-96x96.png",
-    "revision": "453cd61d203d0eee738c32b3bfd0edc6"
+    "revision": "5ae7b51a7096f2d0497e196d8c65ef07"
   },
   {
     "url": "framework-96f2a45b7f57ca14c9e2.js"
