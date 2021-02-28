@@ -14,7 +14,7 @@
         </rdf:RDF>
     </metadata>
     <g fill="#fff">
-        <circle cx="256" cy="256" r="230" />
+        <circle cx="256" cy="256" r="256" />
         <!-- <rect width="512" height="512"/> -->
     </g>
     <g transform="translate(30.571 54.516)" stroke="#000">
