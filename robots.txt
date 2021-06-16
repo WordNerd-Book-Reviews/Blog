@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://wordnerdbookreviews.com/sitemap.xml
+Sitemap: https://wordnerdbookreviews.com/sitemap/sitemap-index.xml
 Host: https://wordnerdbookreviews.com
